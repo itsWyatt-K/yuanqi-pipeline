@@ -4,8 +4,8 @@
 
 ## 总览
 
-- 提交 PR **15** 个（账号 `itsWyatt-K` 14 个 + 账号 `WMRBYY` 1 个）
-- **12** 个的代码已进入上游 `main` 分支，占 80%
+- 提交 PR **14** 个（账号 `itsWyatt-K`）
+- **12** 个的代码已进入上游 `main` 分支，占 86%
 - 上游 `main` 中现有 **20** 个提交（author: itsWyatt-K，2026-09-21 ~ 09-23），合计 **+6780 / −1820 行**，涉及 **29** 个文件
 
 其中 12 个已落地的 PR 分两种形态：
@@ -46,16 +46,9 @@
 | [#437](https://github.com/ddcat-ai/open-ai-canvas/pull/437) | 影策 fork 回流：接回 v1.2.7 + D-057 Agent Server Executor 双通道（60 提交 / 308 文件 / +20757） | Closed 2026-09-18 | 范围过大，维护者未回应 |
 | [#611](https://github.com/ddcat-ai/open-ai-canvas/pull/611) | 种子聚焦为双产线 13 工位（68→47）+ Agent 双产线引导策略 v9 | Closed 2026-10-14 | 本人主动关闭：分支基线早于项目改名，与当前 main 已演变为大规模回退，不具备可合并性 |
 
-## 四、待审（1 个）
+## 四、怎么核实
 
-| PR | 内容 | 状态 |
-|---|---|---|
-| [#939](https://github.com/ddcat-ai/open-ai-canvas/pull/939) | 电商 Agent 与后台电商知识库前后端（9 提交 / 288 文件） | Open，2026-11-01 提交 |
-
-## 怎么核实
-
-- PR 列表（主账号）：[pulls?q=author:itsWyatt-K](https://github.com/ddcat-ai/open-ai-canvas/pulls?q=author%3AitsWyatt-K)
-- PR 列表（第二账号）：[pulls?q=author:WMRBYY](https://github.com/ddcat-ai/open-ai-canvas/pulls?q=author%3AWMRBYY)
+- PR 列表：[pulls?q=author:itsWyatt-K](https://github.com/ddcat-ai/open-ai-canvas/pulls?q=author%3AitsWyatt-K)
 - 提交列表：[main 分支 author:itsWyatt-K](https://github.com/ddcat-ai/open-ai-canvas/commits/main?author=itsWyatt-K)
 
 逐条核验方法：
